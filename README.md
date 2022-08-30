@@ -14,9 +14,9 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Below are the key datasets for this study:
 
-* Sales
-* Menu
-* Members
+* [Sales](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Sales.csv)
+* [Menu](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Menu.csv)
+* [Members](https://github.com/Nancy9ice/Danny-s-Diner/blob/main/Datasets/Members.csv)
 
 Below is an Entity Relationship Diagram that shows the relationship between the tables.
 
